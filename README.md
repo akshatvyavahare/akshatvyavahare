@@ -11,7 +11,7 @@
 
 I'm Akshat Vyavahare. A Data Enthusiast. A Project Manager at [Lionbridge](https://www.lionbridge.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xNerd :stuck_out_tongue: and :coffee: lover. 
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+<!-- I ocassionally blog and tweet about android. Also open sourced few android related stuff.   -->
 
 
 ## Things I am passionate about
